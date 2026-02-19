@@ -54,12 +54,4 @@ Educational WPF project demonstrating AES encryption and brute-force simulation 
 ## 📫 Connect
 - GitHub: https://github.com/MuhamedSaber1990
 - LinkedIn: https://www.linkedin.com/in/mohamed-kenawi/
-
----
-
-<details>
-  <summary>📊 GitHub Stats</summary>
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhamedSaber1990&show_icons=true)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamedSaber1990&layout=compact)
-</details>
+- Gmail: muhamed.saber.1990@gmail.com
