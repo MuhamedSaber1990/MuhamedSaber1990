@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 What I build
-- Full-stack web apps (Node.js/Express + PostgreSQL)
+- Full-stack web apps (Node.js/Express + PostgreSQL + React)
 - Serverless utilities (AWS Lambda)
 - Data & dashboard projects (Python / web)
 - Desktop apps (.NET / WPF)
@@ -15,7 +15,7 @@
 ---
 
 ## 🧰 Tech Stack (from my public projects)
-- **Languages:** JavaScript, Python, C#, HTML/CSS  
+- **Languages:** JavaScript, TypeScript, Python, C#, HTML/CSS , React 
 - **Backend:** Node.js, Express, PostgreSQL, EJS  
 - **Cloud:** AWS Lambda  
 - **Other:** WebSockets, FFmpeg, Google Drive API, Chart.js
