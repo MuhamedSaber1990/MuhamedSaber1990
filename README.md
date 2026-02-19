@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohamed Saber Refaei Kenawi (@MuhamedSaber1990)
 
-<!--
-**MuhamedSaber1990/MuhamedSaber1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer  
+📍 Based in Lithuania  
+🔗 LinkedIn: https://www.linkedin.com/in/mohamed-kenawi/
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I build
+- Full-stack web apps (Node.js/Express + PostgreSQL)
+- Serverless utilities (AWS Lambda)
+- Data & dashboard projects (Python / web)
+- Desktop apps (.NET / WPF)
+
+---
+
+## 🧰 Tech Stack (from my public projects)
+- **Languages:** JavaScript, Python, C#, HTML/CSS  
+- **Backend:** Node.js, Express, PostgreSQL, EJS  
+- **Cloud:** AWS Lambda  
+- **Other:** WebSockets, FFmpeg, Google Drive API, Chart.js
+
+---
+
+## 📌 Featured Projects
+
+### 🧾 AI-Powered Inventory Management System
+A full-stack inventory management suite with automated stock tracking and AI features (smart search, auto descriptions, insights).  
+🌐 Live demo: https://inventory-management-application-ht9y.onrender.com/  
+🔗 Repo: https://github.com/MuhamedSaber1990/inventory-management-application
+
+### 🔎 Patent Search Dashboard
+Node.js + Express app to search patents via the European Patent Office (EPO) OPS API with pagination and patent metadata.  
+🔗 Repo: https://github.com/MuhamedSaber1990/patent-search-dashboard
+
+### 🎬 Vimeo Video Downloader → Google Drive
+Enter a Vimeo URL → downloads via FFmpeg → uploads to Google Drive, with real-time progress via WebSocket.  
+🔗 Repo: https://github.com/MuhamedSaber1990/vimeo-video-downloader
+
+### 🧩 QR Generator Lambda
+AWS Lambda (Node.js) that generates QR codes on demand and can be used with API Gateway as a lightweight endpoint.  
+🔗 Repo: https://github.com/MuhamedSaber1990/qr-generator-lambda
+
+### ⚡ Lithuania EV Charging Infrastructure Analysis
+Data analysis project exploring EV charging infrastructure in Lithuania.  
+🔗 Repo: https://github.com/MuhamedSaber1990/Lithuania-EV-Charging-Infrastructure
+
+### 🖥️ Brute Force Password (WPF + AES)
+Educational WPF project demonstrating AES encryption and brute-force simulation concepts.  
+🔗 Repo: https://github.com/MuhamedSaber1990/BruteForcePassword
+
+---
+
+## 📫 Connect
+- GitHub: https://github.com/MuhamedSaber1990
+- LinkedIn: https://www.linkedin.com/in/mohamed-kenawi/
+
+---
+
+<details>
+  <summary>📊 GitHub Stats</summary>
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhamedSaber1990&show_icons=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamedSaber1990&layout=compact)
+</details>
