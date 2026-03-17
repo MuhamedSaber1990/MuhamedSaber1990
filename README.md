@@ -3,6 +3,7 @@
 💻 Software Engineer  
 📍 Based in Lithuania  
 🔗 LinkedIn: https://www.linkedin.com/in/mohamed-kenawi/
+💼 portfolio: https://mohamedsaber-portfolio.vercel.app/
 
 ---
 
@@ -55,3 +56,4 @@ Educational WPF project demonstrating AES encryption and brute-force simulation 
 - GitHub: https://github.com/MuhamedSaber1990
 - LinkedIn: https://www.linkedin.com/in/mohamed-kenawi/
 - Gmail: muhamed.saber.1990@gmail.com
+- portfolio: https://mohamedsaber-portfolio.vercel.app/
