@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Mohamed Saber Refaei Kenawi (@MuhamedSaber1990)
 
-💻 Software Engineer  
-📍 Based in Lithuania  
-🔗 LinkedIn: https://www.linkedin.com/in/mohamed-kenawi/
-💼 portfolio: https://mohamedsaber-portfolio.vercel.app/
+💻 Software Engineer | Lithuania
+📧 muhamed.saber.1990@gmail.com
+🔗 mohamedsaber-portfolio.vercel.app
 
 ---
 
