@@ -1,58 +1,88 @@
 # 👋 Hi, I'm Mohamed Saber Refaei Kenawi (@MuhamedSaber1990)
 
-💻 Software Engineer | Lithuania
-📧 muhamed.saber.1990@gmail.com
-🔗 mohamedsaber-portfolio.vercel.app
+**Software Engineer** based in **Lithuania**
+
+- 📧 Email: muhamed.saber.1990@gmail.com
+- 🌐 Portfolio: mohamedsaber-portfolio.vercel.app
+- 🔗 GitHub: https://github.com/MuhamedSaber1990
+- 💼 LinkedIn: https://www.linkedin.com/in/mohamed-kenawi/
 
 ---
 
-## 🚀 What I build
-- Full-stack web apps (Node.js/Express + PostgreSQL + React)
-- Serverless utilities (AWS Lambda)
-- Data & dashboard projects (Python / web)
-- Desktop apps (.NET / WPF)
+## 🚀 What I Build
+
+- Full-stack web applications with **Node.js, Express, PostgreSQL, and React**
+- Serverless tools using **AWS Lambda**
+- Data analysis and dashboard projects with **Python** and web technologies
+- Desktop applications with **.NET / WPF**
 
 ---
 
-## 🧰 Tech Stack (from my public projects)
-- **Languages:** JavaScript, TypeScript, Python, C#, HTML/CSS , React 
-- **Backend:** Node.js, Express, PostgreSQL, EJS  
-- **Cloud:** AWS Lambda  
-- **Other:** WebSockets, FFmpeg, Google Drive API, Chart.js
+## 🧰 Tech Stack
+
+### Languages
+- JavaScript
+- TypeScript
+- Python
+- C#
+- HTML/CSS
+
+### Frontend
+- React
+- EJS
+- Chart.js
+
+### Backend
+- Node.js
+- Express
+- PostgreSQL
+
+### Cloud & Tools
+- AWS Lambda
+- WebSockets
+- FFmpeg
+- Google Drive API
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🧾 AI-Powered Inventory Management System
-A full-stack inventory management suite with automated stock tracking and AI features (smart search, auto descriptions, insights).  
-🌐 Live demo: https://inventory-management-application-ht9y.onrender.com/  
-🔗 Repo: https://github.com/MuhamedSaber1990/inventory-management-application
+A full-stack inventory management suite with automated stock tracking and AI-powered features such as smart search, auto-generated descriptions, and business insights.
+
+- 🌐 Live Demo: https://inventory-management-application-ht9y.onrender.com/
+- 🔗 Repository: https://github.com/MuhamedSaber1990/inventory-management-application
 
 ### 🔎 Patent Search Dashboard
-Node.js + Express app to search patents via the European Patent Office (EPO) OPS API with pagination and patent metadata.  
-🔗 Repo: https://github.com/MuhamedSaber1990/patent-search-dashboard
+A Node.js and Express application for searching patents through the European Patent Office (EPO) OPS API, with pagination and patent metadata support.
+
+- 🔗 Repository: https://github.com/MuhamedSaber1990/patent-search-dashboard
 
 ### 🎬 Vimeo Video Downloader → Google Drive
-Enter a Vimeo URL → downloads via FFmpeg → uploads to Google Drive, with real-time progress via WebSocket.  
-🔗 Repo: https://github.com/MuhamedSaber1990/vimeo-video-downloader
+A tool that takes a Vimeo URL, downloads the video using FFmpeg, uploads it to Google Drive, and shows real-time progress through WebSockets.
+
+- 🔗 Repository: https://github.com/MuhamedSaber1990/vimeo-video-downloader
 
 ### 🧩 QR Generator Lambda
-AWS Lambda (Node.js) that generates QR codes on demand and can be used with API Gateway as a lightweight endpoint.  
-🔗 Repo: https://github.com/MuhamedSaber1990/qr-generator-lambda
+An AWS Lambda function built with Node.js that generates QR codes on demand and can be deployed behind API Gateway as a lightweight endpoint.
+
+- 🔗 Repository: https://github.com/MuhamedSaber1990/qr-generator-lambda
 
 ### ⚡ Lithuania EV Charging Infrastructure Analysis
-Data analysis project exploring EV charging infrastructure in Lithuania.  
-🔗 Repo: https://github.com/MuhamedSaber1990/Lithuania-EV-Charging-Infrastructure
+A data analysis project exploring EV charging infrastructure trends and patterns in Lithuania.
+
+- 🔗 Repository: https://github.com/MuhamedSaber1990/Lithuania-EV-Charging-Infrastructure
 
 ### 🖥️ Brute Force Password (WPF + AES)
-Educational WPF project demonstrating AES encryption and brute-force simulation concepts.  
-🔗 Repo: https://github.com/MuhamedSaber1990/BruteForcePassword
+An educational WPF project demonstrating AES encryption concepts and brute-force password simulation.
+
+- 🔗 Repository: https://github.com/MuhamedSaber1990/BruteForcePassword
 
 ---
 
 ## 📫 Connect
+
 - GitHub: https://github.com/MuhamedSaber1990
 - LinkedIn: https://www.linkedin.com/in/mohamed-kenawi/
-- Gmail: muhamed.saber.1990@gmail.com
-- portfolio: https://mohamedsaber-portfolio.vercel.app/
+- Email: muhamed.saber.1990@gmail.com
+- Portfolio: https://mohamedsaber-portfolio.vercel.app/
